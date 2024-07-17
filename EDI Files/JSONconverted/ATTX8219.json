@@ -1,0 +1,21 @@
+{
+  "interchange": {
+    "header": {
+      "syntaxIdentifier": "UNOA:2",
+      "sender": "O093256159700000000JCBATT:OD",
+      "recipient": "JCB59451ECAMENG",
+      "preparationDateTime": "240304",
+      "controlReference": "328960251"
+    },
+    "message": {
+      "header": {},
+      "beginning": {},
+      "dateTimePeriod": "",
+      "parties": [],
+      "processingIndicator": "",
+      "lineItems": []
+    },
+    "trailer": {}
+  },
+  "trailer": {}
+}
